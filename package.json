@@ -1,0 +1,7 @@
+{
+    "name": "test-package",
+    "version": "20.8.1",
+    "type": "module",
+    "main": "app.js",
+    "dependencies": { }
+  }
